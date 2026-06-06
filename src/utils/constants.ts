@@ -113,4 +113,5 @@ export const CONTACT_SOCIAL_LINKS = [
   { platform: "tiktok" as const, label: "TikTok", href: "https://tiktok.com" },
   { platform: "facebook" as const, label: "Facebook", href: "https://facebook.com" },
   { platform: "youtube" as const, label: "YouTube", href: "https://youtube.com" },
+  
 ];
